@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+
+# Derived results and checkpoints (study1_results.csv is committed instead)
+*.rds
+Rplots.pdf
