@@ -67,6 +67,5 @@ MIT, see `LICENSE`.
 
 ## Acknowledgment
 
-AI based tools (Claude, Anthropic) were used to assist with software development and analysis pipelines. The author verified all results and takes full responsibility for the content.
 
 Contact: Fatih Ozkan, Baylor University, fatih_ozkan1@baylor.edu
