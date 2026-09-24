@@ -1,6 +1,6 @@
 # Bayes Factors for Conditional Independence in Latent Network Modeling (BLNM)
 
-R code for the paper *Bayes factor for conditional independence in latent network modeling* by Fatih Ozkan (Baylor University).
+R code for the paper *Bayes factor for conditional independence in latent network modeling* by Fatih Ozkan (University of Houston).
 
 OSF project: <https://osf.io/p7r2m>
 
@@ -68,4 +68,4 @@ MIT, see `LICENSE`.
 ## Acknowledgment
 
 
-Contact: Fatih Ozkan, Baylor University, fatih_ozkan1@baylor.edu
+Contact: Fatih Ozkan, University of Houston, fozkan@central.uh.edu
