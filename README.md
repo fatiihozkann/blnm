@@ -1,6 +1,6 @@
 # Bayes Factors for Conditional Independence in Latent Network Modeling (BLNM)
 
-R code for the paper *Bayes factor for conditional independence in latent network modeling* by Fatih Ozkan (University of Houston).
+R code for the paper *Inclusion Bayes factors for conditional independence in latent network modeling* by Fatih Ozkan (University of Houston).
 
 OSF project: <https://osf.io/p7r2m>
 
@@ -59,13 +59,14 @@ All random seeds are fixed in the scripts (each simulation replication uses seed
 
 ## Citation
 
-If you use this code, please cite the accompanying paper. A preprint is available through the OSF project at <https://osf.io/p7r2m>; citation details will be updated here once the preprint DOI is live.
+If you use this code, please cite the accompanying paper:
+
+> Ozkan, F. (2026). *Inclusion Bayes factors for conditional independence in latent network modeling* [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/b5uyp_v1
 
 ## License
 
 MIT, see `LICENSE`.
 
-## Acknowledgment
+## Contact
 
-
-Contact: Fatih Ozkan, University of Houston, fozkan@central.uh.edu
+Fatih Ozkan, University of Houston, fozkan@central.uh.edu
